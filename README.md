@@ -46,15 +46,22 @@ Load-tested to handle >1,000 concurrent sessions. Stable performance observed du
 ## 🔁 Chatbot Escalation Flow
 
 graph TD
+
     A[Incoming Inquiry] --> B{Is it about a supported part?}
+    
     B -- Yes --> C[NLP Classification]
+    
     B -- No --> D[Escalate to Human]
+    
     C --> E{Confidence > 80%?}
+    
     E -- Yes --> F[Respond with Answer]
+    
     E -- No --> G[Escalate]
 
-    This diagram illustrates the logic flow of the chatbot, from initial inquiry through classification, confidence scoring, and fallback to human support when needed. It helps ensure responsible, accurate AI responses while safeguarding edge cases.
+    This diagram illustrates the logic flow of the chatbot, from initial inquiry through classification, confidence scoring, 
+    and fallback to human support when needed. It helps ensure responsible, accurate AI responses while safeguarding edge cases.
 
 ---
 
-📌 *Case study developed by Nathan Rozok — AI Product Manager focused on building ethical, scalable AI solutions.*
+📌 *Generic Case Study developed for educational purposes by Nathan Rozok — AI Product Manager focused on building ethical, scalable AI solutions.*
