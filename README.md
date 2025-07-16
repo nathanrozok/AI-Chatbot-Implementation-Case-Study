@@ -59,10 +59,9 @@ graph TD
     
     E -- No --> G[Escalate]
 
-    This diagram illustrates the logic flow of the chatbot, 
-    from initial inquiry through classification, confidence scoring, 
-    and fallback to human support when needed. It helps ensure responsible, 
-    accurate AI responses while safeguarding edge cases.
+This diagram illustrates the logic flow of the chatbot, from initial inquiry through classification, 
+confidence scoring, and fallback to human support when needed. It helps ensure responsible, 
+accurate AI responses while safeguarding edge cases.
 
 ---
 
