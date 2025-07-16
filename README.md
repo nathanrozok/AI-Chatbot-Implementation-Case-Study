@@ -45,7 +45,6 @@ Load-tested to handle >1,000 concurrent sessions. Stable performance observed du
 
 ## 🔁 Chatbot Escalation Flow
 
-```mermaid
 graph TD
     A[Incoming Inquiry] --> B{Is it about a supported part?}
     B -- Yes --> C[NLP Classification]
