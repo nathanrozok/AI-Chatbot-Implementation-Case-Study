@@ -65,4 +65,4 @@ accurate AI responses while safeguarding edge cases.
 
 ---
 
-📌 *Generic Case Study developed for educational purposes by Nathan Rozok — AI Product Manager focused on building ethical, scalable AI solutions.*
+📌 *Generic Case Study Summary for educational purposes developed by Nathan Rozok — AI Product Manager focused on building ethical, scalable AI solutions.*
