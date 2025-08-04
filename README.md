@@ -63,8 +63,6 @@ This diagram illustrates the logic flow of the chatbot, from initial inquiry thr
 confidence scoring, and fallback to human support when needed. It helps ensure responsible, 
 accurate AI responses while safeguarding edge cases.
 
-📄 [Full Use Case Narractive Version](https://github.com/nathanrozok/AI-Chatbot-Implementation-Case-Study/blob/main/AI%20Chatbot%20Use%20Case%20Full%20Analysis)
-
 📄 [Full Use Case Document Table Version](https://github.com/nathanrozok/AI-Chatbot-Implementation-Case-Study/blob/main/Analysis-of-a-Well-Constructed-AI-Chatbot-Use-Case-IBM-Method.docx)
 
 ---
