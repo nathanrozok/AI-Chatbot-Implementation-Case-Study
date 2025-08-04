@@ -63,7 +63,7 @@ This diagram illustrates the logic flow of the chatbot, from initial inquiry thr
 confidence scoring, and fallback to human support when needed. It helps ensure responsible, 
 accurate AI responses while safeguarding edge cases.
 
-📄 [Full Use Case Document](docs/auto-parts-ai-use-case.md)
+📄 [Full Use Case Document](AI Chatbot Use Case Full Analysis)
 
 ---
 
