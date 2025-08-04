@@ -1,0 +1,219 @@
+Creating a Well-Constructed AI Use Case using the IBM Method
+
+Below is a sample Use Case for Jimmy’s Auto LLC. an auto parts distributor. Their model is an online auto parts shop that ships parts nationally and has a customer support staff to answer questions that answer questions that customers 
+may have before they order parts. The below Use Case follows the IBM method of breaking out the sections with data and analysis done by myself using this method.
+
+Why is this Use Case Well-Constructed?
+
+This Use Case is inherently reasonable since (1) a chatbot is well-suited for answering questions on basic car parts in the online inventory, (2) the chatbot is aimed at answering the most common questions that Customer Support 
+staff spend most of their time answering, (3) the goals of the company were not too ambitious.
+
+The company started with a SMART goal and had time-boxed goals with expected results based on analysis. The goal was reasonable with the original goal of reducing Support Staff by only 27%. Additionally, the chatbot was limited to 
+answering the most common and well understood questions for the most common auto parts. Had the company made the mistake of trying to eliminate the entire support staff, and have the chatbot answer all questions, the result could have been disastrous.
+
+----
+
+## 🎯 A SMART Business Goal:
+
+Executives at Jimmy’s Auto LLC. Have proposed these goals while implementing a customer service chatbot: 
+
+·         27% elimination of customer service roles, achieving employee salary savings of $565,000 within the first 6 months. 
+·         $20,000 / yr. reduction in office space costs. 
+·         40% reduction in customer service employee training costs by implementing online resources, including virtual demos and AI-generated documentation. 
+·         Following latest market studies – transition 35% of customers to the chatbot for basic customer support and sales inquiries withing the first 6 months.
+
+**✅ Use Case 90-Day Outcomes:**
+
+·         The LLC decided on a more conservative approach to reducing customer service staff to only 7% per 30 days for a total of 21% rather than 27% at 90 days. 
+·         This allowed for a safer transition and kept key employees incase the chatbot deployment did not go as expected. 
+·         Letting some employees work remotely allowed for the reduction in office space to go on as planned. 
+·         The reduction in customer service employee training happened as planned, though outcomes on how well employees were trained still need to be evaluated. 
+·         Full 6 month analysis not complete, but customer adoption has been steady, with long-time customers still more likely to opt to speak to a human customer services resource.
+
+**🔍 Why It Was Well-Constructed:**
+
+The executive team made SMART goals that were timebound with specific quantifiable goals tied to these timelines. 
+
+The use case was specific, and therefore, before engaging with internal stakeholders, in-depth research could be done on how other companies had successfully implemented AI chatbots for similar use cases, as well as what the results were. This helped to guide expectations in a realistic way.
+
+
+---
+
+## 💰 Financial Impact:
+
+The financial impact takes all financial costs and savings into consideration.
+
+Savings: 
+The company expects the following monthly savings as of the 90th day or 3rd month of implementation. 
+
+·         $94,000 / month savings in employee salaries. 
+·         $1,666 / month savings in office space.
+·         $1,000 / month reduction in office supplies, computer lease expenses, etc.
+
+Pre-Implement Costs:
+The project requires these preliminary investments by staff hours to determine use case feasibility. 
+
+·         Process Analysis --> $2,000
+·         Crafting Objectives and KPIs --> $2,000
+·         Assessing Technical Feasibility --> $1,500
+·         Conducting ROI Analysis --> $1,000
+·         Exploring Chatbots on Market --> $5,000
+
+Total --> $11,500
+
+Initial Costs: 
+·         Chatbot Platform License Fee --> $40,000
+·         UX/UI design, Custom Dev, and Config. --> $30,000 - $90,000
+·         Initial Sys. Config. -->  $4,000 - $8,000
+·         Data Mig. and Integration --> $10,000
+·         Training --> $3,000 - $4,500
+
+Total --> $87,000 - $152,500
+
+First Year Operational Costs:
+·         Annual Platform Subscription --> $12,000 - $24,000
+·         Maintenance and Tech Support --> $20,000
+·         Content Updating and Optimizing --> $17,000
+·         Cloud Hosting and Data Storage --> $7,000 - $10,000
+·         AI Chatbot Model Refinement --> $6,000 - $24,000
+·         Engineering Support for Updates --> $30,000 - $50,000
+·         Chatbot Administrator --> $70,000
+
+Total --> $162,000 - $215,000
+
+This brings the first year’s costs to: 
+
+Implementation --> $98,500 - $164,000
+Year 1 Operational Expense --> $162,000 - $215,000
+
+**✅ Use Case 90-Day Outcomes:**
+
+Financial Results were as follows: 
+
+Savings:
+·         By the 90th day a $73,000 / month savings was achieved, with the original $94,000 / month personnel savings being achieved by the 4th month. 
+·         The $1,666 / month savings in office space was achieved. 
+·         The $1,000 / month savings in computer leases, and equipment was achieved. 
+
+Pre-Implementation Costs: 
+The pre-implementation costs totaled $11,000 which was slightly under budget. 
+
+Initial Costs: 
+·         Chatbot Platform License Fee --> $45,000
+·         UX/UI design, Custom Dev, and Config. --> $80,000
+·         Initial Sys. Config. -->  $8,000
+·         Data Mig. and Integration --> $20,000
+·         Training --> $5,000
+
+Total --> $158,000 
+Thus, coming in slightly over budget. 
+
+First Year Operational Costs:
+
+·         Annual Platform Subscription --> $20,000
+·         Maintenance and Tech Support --> $1,666 / month or $4,998 to date. 
+·         Content Updating and Optimizing --> $9,000
+·         Cloud Hosting and Data Storage --> $2,400 to date
+·         AI Chatbot Model Refinement --> $3,000 to date
+·         Engineering Support for Updates --> $10,000 to date
+·         Chatbot Administrator --> $17,500 to date
+
+Summary: 
+Thus, the initial setup/implementation came in slightly over-budget, and the first-year costs are on track, and projected to come withing the initially estimated expense range.
+
+**🔍 Why It Was Well-Constructed:**
+
+This worked well because the organization made an in depth analysis of costs, even braking down the time that it took for their developers and executive staff to perform research and multiplying this time by salary estimates. 
+
+Implementation costs of comparable endeavors were thoroughly researched to give a reasonable range of what could be expected for implementation and first-year costs. 
+
+The result was an actual result that was in line with the expected/projected costs.
+
+
+---
+
+## ⚙️ Operational Feasibility:
+
+The analysis team reached the determination based on input from senior IT personnel that the Use Case was practical and feasible.
+
+The company planned for the chatbot to support customer inquiries on car parts 85 different car models with an average of 100 highly ordered parts per car model. They also assume an estimate of more than 100,000 inquiries per year via chatbot.
+
+Platform --> Platform was an off-the-shelf and well-understood commercially available model and was therefore deemed practical and feasible. 
+
+Scope --> Expected 100,000 customer interactions per year on the entire universe of products offered. 
+
+
+Development --> 
+·         Analysis and requirements gathering --> 2 weeks
+·         Designing Conversation Flow -->  2 weeks
+·         Knowledgebase for Articles --> top 1,000 articles (adding 200 articles per week over 5 weeks) 
+·         Developing the Chatbot --> 3 - 4 weeks 
+·         Training and Testing --> 1 – 2 weeks
+
+The team also expects additional time for deployment, and refinement of major functions.
+
+**✅ Use Case 90-Day Outcomes:**
+
+To measure customer satisfaction, customer surveys were implemented into the chatbot conversation flow.
+
+Based on survey data, the chatbot was a success and useful to customers. 
+
+The team successfully implemented the chatbot for the most common car models and parts. 
+
+Customer support staff are available to handle questions on the more unique and less commonly ordered parts. 
+
+The company is experiencing an modest 4% increase in sales due to customers feeling sure that they are ordering the correct parts with easy chatbot conversations to find the right parts on common models.
+
+**🔍 Why It Was Well-Constructed:**
+
+The team stayed lean and focused on ensuring that customers always had access to human support staff, as well as making sure that the chatbot performed well on the key auto parts that it was designed to handle inquiries for.
+
+
+---
+
+## 💬 Chatbot User Impact:
+
+The Chatbot provides around-the-clock service even when the customer support staff is unavailable or the time of inquiry is out of normal office hours. 
+
+Customer Support Staff is still highly available during normal office hours. 
+
+Overall benefits are expected from the following results: 
+·         Customers get immediate responses from the chatbot.
+·         Customers can provide feedback which can be taken to help refine the model. 
+·         Customers still have Customer Support Staff access.
+·         Hallucinations and Incorrect responses are monitored by a team put together and tasked with these responsibilities. Team was sourced from in-house IT staff.
+
+**✅ Use Case 90-Day Outcomes:**
+
+After 90 days, new and current customers have found the chatbot helpful. 
+
+About 17% of existing customers opted to interact with the chatbot for help. 
+
+Almost 40% of new customers opted to interact with the chatbot for help. This helped greatly with product selection and higher level of orders placed online without the need of human interaction.
+
+**🔍 Why It Was Well-Constructed:**
+
+With the resources set aside for refinement after implementation, the chatbot performance continued to improve, and the decision to keep the larger portion of the support personnel on staff was helpful for the majority of customers who opted to seek help from a human instead of the chatbot. This option led to no complaints from the customer base.
+
+
+---
+
+## 📈 Expected Scalability:
+
+The team designed the chatbot capacity to be able to handle more than 1,000 inquiries simultaneously.
+·         Baring distributed denial of Service attacks, this is a highly reasonable amount for the use case. 
+·         The in-house IT team monitors/reviews chatbot usage on a daily basis and inform management on whether there is a need to scale up server capacity.
+
+**✅ Use Case 90-Day Outcomes:**
+
+The LLC is satisfied with the results recording 700 legitimate engagements the first month, with 2,400 engagements the second month and 4,000 engagements the third month.
+
+No more than 150 inquiries were active simultaneously during the 3rd month which is well within the design parameters. 
+
+The system had no degradation during peak time since the system was built to handle much more than the peak times seen withing the first 3 months. 
+
+The team will continue to monitor, and will have additional helpful findings on traffic and chatbot inquiries during holidays when Customer Support teams are limited.
+
+**🔍 Why It Was Well-Constructed:**
+
+The organization did well in planning for overall inquiries, as well as planning for surge capacity with simultaneous inquiries.
